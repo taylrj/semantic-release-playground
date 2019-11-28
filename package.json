@@ -19,5 +19,8 @@
   "homepage": "https://github.com/taylrj/semantic-release-playground#readme",
   "devDependencies": {
     "semantic-release": "^15.13.31"
+  },
+  "release": {
+    "branch": "master"
   }
 }
